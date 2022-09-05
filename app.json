@@ -10,7 +10,7 @@
     "3",
     "jack"
   ],
-  "repository": "https://github.com/PaulSonOfLars/tgbot",
+  "repository": "https://github.com/pinoycrafters/velbot",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable env variables",
